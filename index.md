@@ -74,9 +74,6 @@ My passion lies at the convergence of traditional water resource engineering and
 
 ## Active Projects
 
-### [HydrOS — Hydrologic Data Management System](/projects#hydros)
-A comprehensive platform for managing hydrologic data workflows.
-
 ### [Groundwater Levels Clustering Analysis](/projects#groundwater-clustering)
 Statewide analysis of groundwater level patterns using machine learning.
 
