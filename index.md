@@ -12,8 +12,8 @@ permalink: /
   margin-bottom: 2rem;
 }
 .profile-photo {
-  width: 80px;
-  height: 80px;
+  width: 120px;
+  height: 120px;
   border-radius: 50%;
   object-fit: cover;
   flex-shrink: 0;
