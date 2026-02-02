@@ -4,6 +4,32 @@ title: About
 permalink: /
 ---
 
+<style>
+.profile-section {
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+.profile-photo {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+.profile-info {
+  flex: 1;
+}
+@media (max-width: 600px) {
+  .profile-section {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+}
+</style>
+
 <div class="profile-section">
   <img src="/assets/profile.jpg" alt="Sercan Ceyhan" class="profile-photo">
   <div class="profile-info">
