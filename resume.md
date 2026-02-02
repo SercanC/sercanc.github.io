@@ -35,20 +35,17 @@ Water resources engineer with 10+ years of consulting experience specializing in
 *2018 – Present*
 
 - Lead development and maintenance of integrated hydrological models (IWFM, MODFLOW)
-- Manage technical teams on watershed-scale water resources projects
+- Manage technical teams on various water resources projects for public and private clients
 - Develop data analysis workflows and visualization tools
-- *[Additional responsibilities to be added]*
+- Applied machine learning techniques for hydrologic time series modeling, contaminant site and basin characterization
 
 ### Founder & Principal Consultant
 **Elevate Processes LLC** — Sacramento, CA
-*[Year] – Present*
+*2025 – Present*
 
-- Provide AI and data consulting services for water resources applications
-- Develop custom software solutions for hydrologic data management
-- *[Additional responsibilities to be added]*
-
-### *[Previous Positions]*
-*[To be added]*
+- Provide AI and data consulting services for non-water business applications
+- Develop custom software solutions for workflow automation
+- Organize workshops for safe, responsible, and effective AI use
 
 ---
 
@@ -56,30 +53,31 @@ Water resources engineer with 10+ years of consulting experience specializing in
 
 ### PhD, Civil and Environmental Engineering
 **University of California, Davis** — Davis, CA
-*[Year]*
+*[2016]*
 
 ### MSc, Water Resources Engineering and Management
 **University of Stuttgart** — Stuttgart, Germany
-*[Year]*
+*[2010]*
 
 ### BSc, Environmental Engineering
 **Middle East Technical University** — Ankara, Turkey
-*[Year]*
+*[2008]*
 
 ---
 
 ## Technical Skills
 
 **Modeling:**
-- IWFM (Integrated Water Flow Model)
+- IWFM
 - MODFLOW
-- *[Other models]*
+- WEHY
+- HEC-HMS
+- Calsim
 
 **Programming & Data:**
 - Python (Pandas, NumPy, scikit-learn, matplotlib)
 - SQL / PostgreSQL
 - GIS (ArcGIS, QGIS)
-- *[Other tools]*
 
 **Other:**
 - Machine Learning / AI Applications
@@ -88,15 +86,11 @@ Water resources engineer with 10+ years of consulting experience specializing in
 
 ---
 
-## Selected Publications
-
-*[Publications to be added]*
-
----
-
 ## Certifications & Memberships
 
-*[To be added]*
+- California Water and Environmental Modeling Forum
+- Groundwater Resources Association of California
+- American Society of Civil Engineers
 
 ---
 
