@@ -1,0 +1,57 @@
+# Site settings
+title: Sercan Ceyhan, PhD
+description: Water Resources Engineer & AI/Data Consultant
+url: "https://sercanc.github.io"
+baseurl: ""
+
+# Author info
+author:
+  name: Sercan Ceyhan, PhD
+  email: sercan@elevatepro.ai
+  location: Sacramento, CA
+
+# Theme - using minima (natively supported by GitHub Pages)
+theme: minima
+
+# Minima theme settings
+minima:
+  skin: classic
+  social_links:
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/sceyhan" }
+    - { platform: github, user_url: "https://github.com/sercanc" }
+
+# Header navigation
+header_pages:
+  - index.md
+  - projects.md
+  - resume.md
+  - blog.md
+
+# Build settings
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title/
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
+
+# Collections for blog posts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Sercan Ceyhan"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+# Plugins (GitHub Pages supported)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
